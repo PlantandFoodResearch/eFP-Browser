@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE specimen SYSTEM "doctypes/efp_config.dtd">
+<specimen name="Fruit_Ripening">
+<view name="all" db="efp_malus_domestica_ripening" dbGroup="MDFR" img="Fruit_Ripening_image.tga">
+<!--<extra name="eFP Browser paper in PLoS One" link="http://dx.doi.org/10.1371/journal.pone.0000718" parameters="No" coords="470,0,794,0,794,33,470,33"/>-->
+<group name="CX0H"> 
+<control sample="CX0H"/>
+</group>
+</view>
+</specimen>

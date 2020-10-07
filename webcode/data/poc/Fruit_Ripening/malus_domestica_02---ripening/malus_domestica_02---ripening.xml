@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="ACC Oxidase 1 suppressed apples ripening (No Ethylene)">
+<!-- NOTE: Tissues are in LAYER ORDER; Top-most image/tissue layer first -->
+<component name="malus_domestica_fruit_ripening_01" caption="0h">
+	<!--
+	<tissue colorKey="#f1a943" name="malus_domestica_fruit_ripening_01-t5">
+		<link url="TISSUE_LINK"/>
+		<area coords="78,76,83,79,84,86,90,86,95,76,98,76,100,82,99,89,95,94,90,91,89,86,84,86,83,92,79,95,75,84"/>
+		<sample name="CR0H" />
+		<sample name="CR0H" />
+	</tissue>
+	<tissue colorKey="#9746ba" name="malus_domestica_fruit_ripening_01-t4">
+		<link url="TISSUE_LINK"/>
+		<area coords="86,71,80,65,76,66,74,74,74,83,80,98,84,98,85,87,85,71,89,71,89,88,94,98,101,84,101,71,96,66,89,70"/>
+		<sample name="CR0H" />
+		<sample name="CR0H" />
+	</tissue>
+	-->
+	<tissue colorKey="#467fbc" name="malus_domestica_fruit_ripening_01-t3">
+		<link url="TISSUE_LINK"/>
+		<area coords="81,11,82,31,63,56,62,80,80,116,93,116,110,85,110,60,90,29,91,11"/>
+		<sample name="CR0H" />
+		<sample name="CR0H" />
+	</tissue>
+	<tissue colorKey="#75d195" name="malus_domestica_fruit_ripening_01-t2">
+		<link url="TISSUE_LINK"/>
+		<area coords="90,21,101,12,112,8,129,16,144,35,159,65,165,98,157,129,132,149,117,152,106,148,97,135,95,123,91,114,81,115,71,138,61,150,48,151,31,144,14,125,8,99,12,67,28,32,47,12,64,7,81,20"/>
+		<sample name="CX0H" />
+		<sample name="CX0H" />
+	</tissue>
+	<tissue colorKey="#2dab5e" name="malus_domestica_fruit_ripening_01-t1">
+		<link url="TISSUE_LINK"/>
+		<area coords="96,13,102,5,113,1,126,4,153,36,172,90,169,117,152,147,132,158,112,158,92,138,91,121,87,114,82,122,79,136,67,152,56,156,47,157,31,152,12,135,2,111,1,86,7,61,17,39,31,17,46,4,60,1,71,5,80,16,81,10,91,10,91,16"/>
+		<sample name="SK0H" />
+		<sample name="SK0H" />
+	</tissue>
+</component>
+
+<component name="malus_domestica_fruit_ripening_spacer" caption="">
+</component>
+
+<component name="malus_domestica_fruit_ripening_02" caption="24h">
+	<!--
+	<tissue colorKey="#f1a944" name="malus_domestica_fruit_ripening_02-t5">
+		<link url="TISSUE_LINK"/>
+		<area coords="78,76,83,79,84,86,90,86,95,76,98,76,100,82,99,89,95,94,90,91,89,86,84,86,83,92,79,95,75,84"/>
+		<sample name="CR24H" />
+		<sample name="CR24H" />
+	</tissue>
+	<tissue colorKey="#9746bb" name="malus_domestica_fruit_ripening_02-t4">
+		<link url="TISSUE_LINK"/>
+		<area coords="86,71,80,65,76,66,74,74,74,83,80,98,84,98,85,87,85,71,89,71,89,88,94,98,101,84,101,71,96,66,89,70"/>
+		<sample name="CR24H" />
+		<sample name="CR24H" />
+	</tissue>
+	-->
+	<tissue colorKey="#467fbd" name="malus_domestica_fruit_ripening_02-t3">
+		<link url="TISSUE_LINK"/>
+		<area coords="81,11,82,31,63,56,62,80,80,116,93,116,110,85,110,60,90,29,91,11"/>
+		<sample name="CR24H" />
+		<sample name="CR24H" />
+	</tissue>
+	<tissue colorKey="#75d196" name="malus_domestica_fruit_ripening_02-t2">
+		<link url="TISSUE_LINK"/>
+		<area coords="90,21,101,12,112,8,129,16,144,35,159,65,165,98,157,129,132,149,117,152,106,148,97,135,95,123,91,114,81,115,71,138,61,150,48,151,31,144,14,125,8,99,12,67,28,32,47,12,64,7,81,20"/>
+		<sample name="CX24H" />
+		<sample name="CX24H" />
+	</tissue>
+	<tissue colorKey="#2dab5f" name="malus_domestica_fruit_ripening_02-t1">
+		<link url="TISSUE_LINK"/>
+		<area coords="96,13,102,5,113,1,126,4,153,36,172,90,169,117,152,147,132,158,112,158,92,138,91,121,87,114,82,122,79,136,67,152,56,156,47,157,31,152,12,135,2,111,1,86,7,61,17,39,31,17,46,4,60,1,71,5,80,16,81,10,91,10,91,16"/>
+		<sample name="SK24H" />
+		<sample name="SK24H" />
+	</tissue>
+</component>
+
+<component name="malus_domestica_fruit_ripening_spacer" caption="">
+</component>
+
+<component name="malus_domestica_fruit_ripening_03" caption="96h">
+	<tissue colorKey="#75d197" name="malus_domestica_fruit_ripening_03-t2">
+		<link url="TISSUE_LINK"/>
+		<area coords="90,21,101,12,112,8,129,16,144,35,159,65,165,98,157,129,132,149,117,152,106,148,97,135,95,123,91,114,81,115,71,138,61,150,48,151,31,144,14,125,8,99,12,67,28,32,47,12,64,7,81,20"/>
+		<sample name="CX96H" />
+		<sample name="CX96H" />
+	</tissue>
+	<tissue colorKey="#2dab60" name="malus_domestica_fruit_ripening_03-t1">
+		<link url="TISSUE_LINK"/>
+		<area coords="96,13,102,5,113,1,126,4,153,36,172,90,169,117,152,147,132,158,112,158,92,138,91,121,87,114,82,122,79,136,67,152,56,156,47,157,31,152,12,135,2,111,1,86,7,61,17,39,31,17,46,4,60,1,71,5,80,16,81,10,91,10,91,16"/>
+		<sample name="SK96H" />
+		<sample name="SK96H" />
+	</tissue>
+</component>
+
+
+
+</section>

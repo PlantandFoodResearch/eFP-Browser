@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- SKIP THIS SECTION (last 2 compnenet copied to section 01 instead, per efp update
+
+<section name="Mature Fruit">
+<!-- NOTE: Tissues are in LAYER ORDER; Top-most image/tissue layer first -->
+<component name="malus_domestica_mature_fruit_01" caption="132DAFB">
+	<tissue colorKey="#f1a63b" name="malus_domestica_mature_fruit_01-t6">
+		<link url="TISSUE_LINK"/>
+		<area coords="78,104,102,104,111,95,114,83,114,73,108,65,102,65,98,70,96,76,95,102,83,103,83,80,81,71,76,65,71,65,65,72,64,81,73,102"/>
+		<sample name="132DAFB" />
+		<sample name="132DAFB" />
+	</tissue>
+	<tissue colorKey="#9443b5" name="malus_domestica_mature_fruit_01-t5">
+		<link url="TISSUE_LINK"/>
+		<area coords="102,51,77,51,56,66,51,78,51,90,56,102,68,112,77,112,85,103,84,51,94,52,94,101,101,110,112,111,122,104,129,90,128,76,125,69,104,52"/>
+		<sample name="132DAFB" />
+		<sample name="132DAFB" />
+	</tissue>
+	<tissue colorKey="#437cb7" name="malus_domestica_mature_fruit_01-t4">
+		<link url="TISSUE_LINK"/>
+		<area coords="93,33,83,33,79,39,52,60,45,70,42,82,44,97,52,111,80,139,91,139,101,132,119,121,131,105,137,86,135,73,126,60"/>
+		<sample name="132DAFB" />
+		<sample name="132DAFB" />
+	</tissue>
+	<tissue colorKey="#e9e271" name="malus_domestica_mature_fruit_01-t1">
+		<link url="TISSUE_LINK"/>
+		<area coords="93,4,94,9,98,16,91,32,85,32,79,18,84,10,78,13,71,12,75,6,86,2"/>
+		<sample name="132DAFB" />
+		<sample name="132DAFB" />
+	</tissue>
+	<tissue colorKey="#6fd190" name="malus_domestica_mature_fruit_01-t3">
+		<link url="TISSUE_LINK"/>
+		<area coords="112,11,103,15,75,17,60,13,43,16,22,36,10,64,7,94,14,125,29,147,48,156,65,156,81,143,86,138,98,154,108,158,124,158,146,147,163,117,167,88,164,56,151,31,135,16,124,11"/>
+		<sample name="132DAFB" />
+		<sample name="132DAFB" />
+	</tissue>
+	<tissue colorKey="#2da559" name="malus_domestica_mature_fruit_01-t2">
+		<link url="TISSUE_LINK"/>
+		<area coords="70,10,61,6,43,9,28,18,13,38,3,61,1,74,1,104,7,128,18,147,33,160,48,165,60,165,73,159,83,146,86,146,94,159,108,166,126,166,147,155,161,138,169,119,172,101,172,69,164,43,151,21,131,6,113,6,100,10"/>
+		<sample name="132DAFB" />
+		<sample name="132DAFB" />
+	</tissue>
+</component>
+<component name="malus_domestica_mature_fruit_02" caption="132DAFB">
+	<tissue colorKey="#f1a73d" name="malus_domestica_mature_fruit_02-t6">
+		<link url="TISSUE_LINK"/>
+		<area coords="119,128,95,128,83,114,83,103,88,101,92,101,99,112,100,127,116,126,116,111,123,100,131,101,132,112"/>
+		<sample name="132DAFB" />
+		<sample name="132DAFB" />
+	</tissue>
+	<tissue colorKey="#9544b6" name="malus_domestica_mature_fruit_02-t5">
+		<link url="TISSUE_LINK"/>
+		<area coords="112,80,102,80,93,70,85,75,78,90,75,106,82,120,95,133,102,129,102,80,113,80,114,127,119,132,139,111,139,94,131,73,122,68,115,73"/>
+		<sample name="132DAFB" />
+		<sample name="132DAFB" />
+	</tissue>
+	<tissue colorKey="#447db8" name="malus_domestica_mature_fruit_02-t4">
+		<link url="TISSUE_LINK"/>
+		<area coords="103,28,97,44,81,64,65,89,66,105,73,124,97,152,102,161,113,162,119,149,142,124,149,108,152,95,150,81,133,57,121,43,114,28"/>
+		<sample name="132DAFB" />
+		<sample name="132DAFB" />
+	</tissue>
+	<tissue colorKey="#e9e273" name="malus_domestica_mature_fruit_02-t1">
+		<link url="TISSUE_LINK"/>
+		<area coords="109,30,102,27,102,24,106,22,106,20,100,18,97,11,105,6,115,6,120,8,116,18,110,19,110,23,114,27"/>
+		<sample name="132DAFB" />
+		<sample name="132DAFB" />
+	</tissue>
+	<tissue colorKey="#71d191" name="malus_domestica_mature_fruit_02-t3">
+		<link url="TISSUE_LINK"/>
+		<area coords="117,26,100,25,85,17,75,15,61,19,48,32,18,81,9,112,9,136,23,171,46,196,72,201,84,196,94,182,103,162,113,162,129,191,141,200,156,200,174,193,198,163,207,132,204,93,186,59,161,22,138,15,125,18"/>
+		<sample name="132DAFB" />
+		<sample name="132DAFB" />
+	</tissue>
+	<tissue colorKey="#2da75a" name="malus_domestica_mature_fruit_02-t2">
+		<link url="TISSUE_LINK"/>
+		<area coords="118,16,98,16,83,7,64,7,50,16,26,52,15,69,7,88,1,115,1,133,5,150,15,174,33,196,49,206,58,208,76,208,87,201,98,187,102,174,104,163,113,163,118,186,127,200,142,208,160,208,180,198,199,177,211,149,214,125,211,93,189,49,167,18,152,8,135,6"/>
+		<sample name="132DAFB" />
+		<sample name="132DAFB" />
+	</tissue>
+</component>
+<component name="malus_domestica_mature_fruit_03" caption="140DAFB">
+	<tissue colorKey="#f1a83f" name="malus_domestica_mature_fruit_03-t6">
+		<link url="TISSUE_LINK"/>
+		<area coords="126,142,102,142,87,128,87,121,94,115,99,117,104,127,104,141,125,141,125,124,134,116,142,120,141,130"/>
+		<sample name="140DAFB" />
+		<sample name="140DAFB" />
+	</tissue>
+	<tissue colorKey="#9645b7" name="malus_domestica_mature_fruit_03-t5">
+		<link url="TISSUE_LINK"/>
+		<area coords="124,150,104,149,83,131,84,118,92,98,105,93,109,100,108,105,106,113,106,132,111,148,111,148,118,148,122,134,123,112,120,102,121,96,128,93,136,98,145,121,145,133"/>
+		<sample name="140DAFB" />
+		<sample name="140DAFB" />
+	</tissue>
+	<tissue colorKey="#457eb9" name="malus_domestica_mature_fruit_03-t4">
+		<link url="TISSUE_LINK"/>
+		<area coords="109,42,106,56,98,69,79,94,73,113,74,127,78,142,112,176,123,176,154,147,161,132,162,111,155,90,133,60,126,42"/>
+		<sample name="140DAFB" />
+		<sample name="140DAFB" />
+	</tissue>
+	<tissue colorKey="#e9e275" name="malus_domestica_mature_fruit_03-t1">
+		<link url="TISSUE_LINK"/>
+		<area coords="117,58,107,34,110,27,107,25,107,20,116,16,120,17,126,25,124,28,127,34"/>
+		<sample name="140DAFB" />
+		<sample name="140DAFB" />
+	</tissue>
+	<tissue colorKey="#73d192" name="malus_domestica_mature_fruit_03-t3">
+		<link url="TISSUE_LINK"/>
+		<area coords="127,34,105,35,84,14,79,13,62,14,38,40,19,77,10,118,14,163,29,197,53,216,80,217,97,203,113,177,123,178,130,188,142,212,155,220,174,218,195,210,214,183,224,144,224,106,212,65,189,31,172,15,151,13,142,21,131,35"/>
+		<sample name="140DAFB" />
+		<sample name="140DAFB" />
+	</tissue>
+	<tissue colorKey="#2da95b" name="malus_domestica_mature_fruit_03-t2">
+		<link url="TISSUE_LINK"/>
+		<area coords="127,26,105,26,95,12,79,4,60,4,38,24,18,56,4,91,2,113,2,150,14,191,37,218,63,228,82,227,102,212,112,182,121,183,129,207,141,221,160,228,186,224,208,206,221,185,231,152,231,104,221,68,194,24,175,5,161,2,142,6"/>
+		<sample name="140DAFB" />
+		<sample name="140DAFB" />
+	</tissue>
+</component>
+<component name="malus_domestica_mature_fruit_04" caption="140DAFB">
+	<tissue colorKey="#f1a941" name="malus_domestica_mature_fruit_04-t5">
+		<link url="TISSUE_LINK"/>
+		<area coords="131,125,119,125,119,116,114,108,109,112,108,121,114,136,119,133,119,126,130,126,133,136,137,136,142,117,140,110,136,108,131,115"/>
+		<sample name="140DAFB" />
+		<sample name="140DAFB" />
+	</tissue>
+	<tissue colorKey="#9746b8" name="malus_domestica_mature_fruit_04-t4">
+		<link url="TISSUE_LINK"/>
+		<area coords="128,102,121,102,116,96,112,95,105,108,107,117,114,140,118,139,123,123,122,103,128,103,128,121,133,140,137,138,144,115,143,101,137,94,130,96"/>
+		<sample name="140DAFB" />
+		<sample name="140DAFB" />
+	</tissue>
+	<tissue colorKey="#467fba" name="malus_domestica_mature_fruit_04-t3">
+		<link url="TISSUE_LINK"/>
+		<area coords="129,17,116,16,120,40,112,55,93,80,89,94,89,113,96,134,116,165,132,166,155,128,159,110,158,89,152,74,136,53,128,39"/>
+		<sample name="140DAFB" />
+		<sample name="140DAFB" />
+	</tissue>
+	<tissue colorKey="#75d193" name="malus_domestica_mature_fruit_04-t2">
+		<link url="TISSUE_LINK"/>
+		<area coords="130,28,117,28,102,16,90,10,76,12,58,22,38,53,21,85,13,114,11,140,17,172,37,200,59,214,77,216,92,211,105,191,116,166,132,167,138,189,150,210,168,217,189,216,212,199,226,176,234,153,234,119,226,87,208,51,191,27,175,15,162,11,148,14"/>
+		<sample name="140DAFB" />
+		<sample name="140DAFB" />
+	</tissue>
+	<tissue colorKey="#2dab5c" name="malus_domestica_mature_fruit_04-t1">
+		<link url="TISSUE_LINK"/>
+		<area coords="129,26,117,27,103,9,89,1,77,2,57,12,38,34,15,74,4,107,1,133,3,159,17,194,45,219,72,227,86,225,108,207,119,168,130,169,132,191,142,211,160,223,178,227,200,221,225,198,238,174,244,150,243,114,237,90,224,62,206,31,193,16,172,3,158,2,148,5"/>
+		<sample name="140DAFB" />
+		<sample name="140DAFB" />
+	</tissue>
+</component>
+</section>
+-->

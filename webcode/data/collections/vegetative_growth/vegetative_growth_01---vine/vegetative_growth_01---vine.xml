@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Actinidia chinensis 'Hort16A' Vegetative Growth">
+
+<!-- COMPONENT TEMPLATE
+<component name="vegetative_growth_01" caption="__NAME__">
+	<tissue colorKey="#__COLOUR__" name="__TISSUE__">
+		<link url="#"/>
+		<area coords=""/>
+		<sample name="__SAMPLE_ID__" />
+		<sample name="__SAMPLE_ID__" />
+	</tissue>
+</component>
+-->
+
+<!-- NOTE: Tissues are in LAYER ORDER; Top-most image/tissue layer first -->
+<component name="vegetative_growth_01---vine" caption="Vine">
+	<tissue colorKey="#36de5e" name="sink_leaf">
+		<link url="#"/>
+		<area coords="138,560,152,563,165,584,163,609,143,607,129,592,128,620,119,629,108,625,110,608,122,599,107,587,106,600,93,608,83,607,84,589,96,583,106,585,127,600,129,588,130,570"/>
+		<sample name="Leaf_sink" />
+		<sample name="Leaf_sink" />
+	</tissue>
+	<tissue colorKey="#24943f" name="source_leaf">
+		<link url="#"/>
+		<area coords="87,445,72,467,53,469,39,449,53,424,83,423,126,437,154,423,181,423,197,445,205,471,204,494,192,506,184,508,193,537,191,554,174,559,165,559,151,549,141,536,138,517,163,502,140,478,130,461,123,442,123,439,87,427"/>
+		<sample name="Leaf_source" />
+		<sample name="Leaf_source" />
+	</tissue>
+	<tissue colorKey="#2bb34c" name="shoot">
+		<link url="#"/>
+		<area coords="118,304,81,379,116,424,126,468,111,499,126,534,120,541,103,500,114,464,107,434,86,406,64,381,9,446,14,407,98,302,269,107,293,119,323,123,315,132,315,149,322,162,321,175,316,176,315,161,309,145,313,141,313,127,290,125,283,120,273,118,267,110,222,164,272,167,269,173,231,167,218,171,245,205,254,197,261,198,247,223,262,243,260,263,255,262,257,242,248,233,242,224,234,233,232,240,213,268,208,269,225,225,243,205,216,170,101,302"/>
+		<sample name="Shoot" />
+		<sample name="Shoot" />
+	</tissue>
+	<tissue colorKey="#c38226" name="cane">
+		<link url="#"/>
+		<area coords="433,462,405,457,395,394,411,199,318,366,327,290,412,167,381,107,310,147,265,195,253,194,274,162,317,127,373,99,309,79,254,92,198,132,100,282,157,160,238,77,210,40,444,1,573,19,734,123,868,258,790,253,615,238,523,472,551,187,477,307"/>
+		<sample name="cane" />
+		<sample name="cane" />
+	</tissue>
+	<tissue colorKey="#a66e20" name="root">
+		<link url="#"/>
+		<area coords="589,525,492,531,474,564,415,522,355,544,360,485,258,483,297,443,431,464,519,489,556,496"/>
+		<sample name="Root" />
+		<sample name="Root" />
+	</tissue>
+</component>
+</section>

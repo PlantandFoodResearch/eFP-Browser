@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Actinidia chinensis 'Hort16A' Flower and Fruit Development">
+
+<!-- NOTE: Tissues are in LAYER ORDER; Top-most image/tissue layer first -->
+<component name="flower_fruit_development_01---floral_buds" caption="Floral Bud">
+	<tissue colorKey="#e7d200" name="Floral Bud">
+		<link url="#"/>
+		<area coords="124,96,136,107,132,116,121,116,92,144,90,151,84,153,77,146,84,134,91,142,118,115,115,105"/>
+		<sample name="Flower_bud" />
+		<sample name="Flower_bud" />
+	</tissue>
+</component>
+<component name="flower_fruit_development_01---flower" caption="Flower">
+	<tissue colorKey="#aed600" name="centre">
+		<link url="#"/>
+		<area coords="152,124,164,125,171,136,172,148,165,163,150,166,137,164,131,152,130,136,137,125"/>
+		<sample name="Flower" />
+		<sample name="Flower" />
+	</tissue>
+	<tissue colorKey="#ffe720" name="anther">
+		<link url="#"/>
+		<area coords="162,99,178,95,193,101,203,124,212,142,208,159,205,168,189,194,164,204,157,198,153,168,144,195,137,195,131,207,113,200,101,188,100,179,130,155,86,162,100,136,97,128,101,116,114,107,133,128,125,97,133,91,140,87,147,88,153,95"/>
+		<sample name="Flower" />
+		<sample name="Flower" />
+	</tissue>
+	<tissue colorKey="#fff9d6" name="petal">
+		<link url="#"/>
+		<area coords="119,3,213,16,229,22,282,77,302,116,307,142,283,195,275,206,268,209,218,206,217,234,208,252,167,281,117,269,88,240,87,225,53,234,43,233,19,210,23,155,6,119,4,81,47,41,84,27"/>
+		<sample name="Flower" />
+		<sample name="Flower" />
+	</tissue>
+</component>
+<component name="flower_fruit_development_01---fruit1-1" caption="Fruit 15-20 DAA">
+	<tissue colorKey="#3787d9" name="core">
+		<link url="#"/>
+		<area coords="50,43,56,45,57,49,54,52,49,52,43,49,43,45"/>
+		<sample name="Fruit_T1" />
+		<sample name="Fruit_T1" />
+	</tissue>
+	<tissue colorKey="#700038" name="cortex">
+		<link url="#"/>
+		<area coords="56,29,66,36,70,45,69,52,63,61,54,63,41,60,31,52,32,42,38,32,48,29"/>
+		<sample name="Fruit_T1" />
+		<sample name="Fruit_T1" />
+	</tissue>
+	<tissue colorKey="#8bc700" name="flesh">
+		<link url="#"/>
+		<area coords="50,5,75,12,88,26,94,41,93,56,85,72,74,81,57,86,35,84,19,75,11,64,8,45,12,27,29,12"/>
+		<sample name="Fruit_T1" />
+		<sample name="Fruit_T1" />
+	</tissue>
+</component>
+<component name="flower_fruit_development_01---fruit1" caption="Fruit 40-45 DAA">
+	<tissue colorKey="#3785d6" name="core">
+		<link url="#"/>
+		<area coords="63,63,71,64,79,68,80,74,76,76,66,77,61,74,58,69"/>
+		<sample name="Fruit_T2" />
+		<sample name="Fruit_T2" />
+	</tissue>
+	<tissue colorKey="#6e0037" name="cortex">
+		<link url="#"/>
+		<area coords="53,32,83,33,98,44,113,76,104,90,93,102,70,110,51,103,29,90,27,74,30,55,37,41"/>
+		<sample name="Fruit_T2" />
+		<sample name="Fruit_T2" />
+	</tissue>
+	<tissue colorKey="#89c400" name="flesh">
+		<link url="#"/>
+		<area coords="74,4,99,9,118,25,132,48,134,72,129,98,110,121,89,130,77,132,54,131,31,123,16,110,6,92,3,78,3,59,8,42,17,25,33,12,53,5"/>
+		<sample name="Fruit_T2" />
+		<sample name="Fruit_T2" />
+	</tissue>
+</component>
+</section>

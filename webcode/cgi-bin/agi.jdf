@@ -1,0 +1,65 @@
+{
+	"readme" : {
+		"title" : "eFP",
+		"about" : "returns an electronic representation of AGI expression pattern"
+	},
+	"define": {
+		"agi" : {
+			"string" : {
+				"regex" : "^(A[T|M|C][1-5][G][0-9]{5})|None$"
+			}
+		},
+		"image" : {
+			"string" : {
+				"regex" : ".*"
+			}
+		},
+		"sourceName" : {
+			"string" : {
+				"regex"  : "^(Developmental_Map|brown|yellow|orange|other)$",
+				"default" : "Developmental_Map"  
+			}
+		},
+		"modeString" : {
+			"string" : {
+				"regex"  : "^(Absolute|Relative|Compare)$",
+				"default" : "Absolute"
+			}
+		},
+		"efpTuple" : {
+			"tuple" : {
+				"elements" : {
+					"gene" : "agi",
+					"gene2" : "agi",
+					"datasource" : "sourceName",
+					"mode"  : "modeString",
+					"threshold" : "real"
+				},
+				"default" : ["unknown", "None", "Developmental_Map", "Absolute", 0]
+			}
+		}
+	},
+	"api" : {
+		"efp_short" : {
+			"function" : {
+				"comment" : "Takes an AGI and returns eFP image",
+				"request" : "agi",
+				"response" : "image"
+			}
+		},
+		"efp" : {
+			"function" : {
+				"comment" : "Takes one or two AGIs, source name, mode and threshold and returns eFP image",
+				"request" : "efpTuple",
+				"response" : "image"
+			}
+		},
+		"chart" : {
+			"function" : {
+				"comment" : "Takes one or two AGIs, source name, mode and threshold and returns a chart with expression values",
+				"request" : "efpTuple",
+				"response" : "image"
+			}
+		}
+	}
+}

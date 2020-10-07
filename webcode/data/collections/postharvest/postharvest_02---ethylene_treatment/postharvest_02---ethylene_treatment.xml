@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Actinidia chinensis 'Hort16A' 100ppm Ethylene Treatment Series">
+
+<!-- NOTE: Tissues are in LAYER ORDER; Top-most image/tissue layer first -->
+<!-- Color codes copied from 'flower_fruit_development' collection, take care when mixing -->
+<component name="postharvest_02---ethylene_treatment1" caption="Fruit 231 DAA - ethylene">
+	<tissue colorKey="#3682d2" name="core">
+		<link url="#"/>
+		<area coords="44,43,53,43,57,47,56,50,54,51,51,52,43,50,42,48,42,45"/>
+		<sample name="Fruit_231_DAA" />
+		<sample name="Fruit_231_DAA" />
+	</tissue>
+	<tissue colorKey="#660033" name="cortex">
+		<link url="#"/>
+		<area coords="46,21,66,26,75,33,78,45,77,57,73,67,54,72,42,73,32,67,27,62,22,56,18,45,18,43,33,26"/>
+		<sample name="Fruit_231_DAA" />
+		<sample name="Fruit_231_DAA" />
+	</tissue>
+	<tissue colorKey="#84bd00" name="flesh">
+		<link url="#"/>
+		<area coords="52,4,67,7,84,18,94,33,96,43,94,58,86,74,77,81,64,87,60,88,42,87,29,85,19,79,10,70,5,61,4,56,4,38,11,21,24,10,37,5"/>
+		<sample name="Fruit_231_DAA" />
+		<sample name="Fruit_231_DAA" />
+	</tissue>
+</component>
+<component name="postharvest_02---ethylene_treatment2" caption="Fruit 1 DAH + ethylene">
+	<tissue colorKey="#3684d4" name="core">
+		<link url="#"/>
+		<area coords="53,56,67,56,69,59,70,62,69,63,67,67,61,68,60,68,51,63,51,58"/>
+		<sample name="Fruit_231_DAA_1DAH" />
+		<sample name="Fruit_231_DAA_1DAH" />
+	</tissue>
+	<tissue colorKey="#6b0036" name="cortex">
+		<link url="#"/>
+		<area coords="55,26,82,32,93,43,97,58,98,65,96,74,91,88,82,90,68,95,50,96,38,89,32,83,25,73,20,58,27,47,32,40,39,33"/>
+		<sample name="Fruit_231_DAA_1DAH" />
+		<sample name="Fruit_231_DAA_1DAH" />
+	</tissue>
+	<tissue colorKey="#87c200" name="flesh">
+		<link url="#"/>
+		<area coords="67,2,90,9,109,25,118,42,119,51,120,69,113,90,96,109,83,115,69,118,57,118,31,111,17,101,7,88,3,75,2,71,2,51,8,32,18,19,29,10,39,5"/>
+		<sample name="Fruit_231_DAA_1DAH" />
+		<sample name="Fruit_231_DAA_1DAH" />
+	</tissue>
+</component>
+<component name="postharvest_02---ethylene_treatment3" caption="Fruit 2 DAH + ethylene">
+	<tissue colorKey="#3785d6" name="core">
+		<link url="#"/>
+		<area coords="63,62,69,62,79,65,81,68,81,73,77,75,69,76,67,76,63,74,59,70,59,66"/>
+		<sample name="Fruit_231_DAA_2DAH" />
+		<sample name="Fruit_231_DAA_2DAH" />
+	</tissue>
+	<tissue colorKey="#6e0037" name="cortex">
+		<link url="#"/>
+		<area coords="54,31,84,32,100,43,110,63,115,76,105,90,94,100,86,104,71,109,52,103,30,90,29,63,31,55,39,40"/>
+		<sample name="Fruit_231_DAA_2DAH" />
+		<sample name="Fruit_231_DAA_2DAH" />
+	</tissue>
+	<tissue colorKey="#89c400" name="flesh">
+		<link url="#"/>
+		<area coords="78,3,107,13,124,30,133,48,135,57,135,80,128,99,116,116,104,124,90,130,85,131,58,131,36,124,20,112,10,98,5,85,4,77,4,59,13,34,26,18,44,7,60,3"/>
+		<sample name="Fruit_231_DAA_2DAH" />
+		<sample name="Fruit_231_DAA_2DAH" />
+	</tissue>
+</component>
+<component name="postharvest_02---ethylene_treatment4" caption="Fruit 4 DAH + ethylene">
+	<tissue colorKey="#3787d9" name="core">
+		<link url="#"/>
+		<area coords="80,71,87,71,92,75,92,80,83,85,73,86,66,82,66,79,68,74,75,72"/>
+		<sample name="Fruit_231_DAA_4DAH" />
+		<sample name="Fruit_231_DAA_4DAH" />
+	</tissue>
+	<tissue colorKey="#700038" name="cortex">
+		<link url="#"/>
+		<area coords="97,35,116,46,125,63,127,84,126,102,99,118,79,124,51,115,38,102,28,86,38,60,45,49,63,36"/>
+		<sample name="Fruit_231_DAA_4DAH" />
+		<sample name="Fruit_231_DAA_4DAH" />
+	</tissue>
+	<tissue colorKey="#8bc700" name="flesh">
+		<link url="#"/>
+		<area coords="90,3,114,10,139,29,153,57,155,84,154,96,141,123,122,139,104,147,90,150,65,149,45,144,30,135,19,124,11,109,6,95,4,81,4,69,11,43,23,26,40,12,60,4"/>
+		<sample name="Fruit_231_DAA_4DAH" />
+		<sample name="Fruit_231_DAA_4DAH" />
+	</tissue>
+</component>
+</section>

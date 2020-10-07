@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Actinidia chinensis whole plant">
+
+<!-- COMPONENT TEMPLATE
+<component name="actinidia_chinensis_whole_plant___ID__" caption="Stage __ID__">
+	<tissue colorKey="#__COLOUR__" name="actinidia_chinensis_whole_plant___ID__-__TISSUE__">
+		<link url="TISSUE_LINK"/>
+		<area coords=""/>
+		<sample name="__S__ID__" />
+		<sample name="__S__ID__" />
+	</tissue>
+</component>
+-->
+
+<!-- NOTE: Tissues are in LAYER ORDER; Top-most image/tissue layer first -->
+<component name="actinidia_chinensis_whole_plant_01" caption="Actinidia chinensis">
+	<tissue colorKey="#e7d200" name="actinidia_chinensis_whole_plant_01-bud">
+		<link url="TISSUE_LINK"/>
+		<area coords="1041,614,1024,611,1021,601,1036,590,1045,593,1042,613,1046,693,1041,699,987,732,976,728,981,717,992,717,997,722,1038,699,1034,695,1037,687,1043,686"/>
+		<sample name="BDS01" />
+		<sample name="BDS01" />
+	</tissue>
+	<tissue colorKey="#24943f" name="actinidia_chinensis_whole_plant_01-source-leaf">
+		<link url="TISSUE_LINK"/>
+		<area coords="1050,575,1050,597,1082,630,1110,611,1106,583,1090,572,1050,573,998,590,958,567,928,570,899,604,891,644,901,673,924,679,911,721,917,743,940,752,961,740,979,718,981,694,947,673,987,633,1003,592"/>
+		<sample name="SCLS01" />
+		<sample name="SCLS01" />
+	</tissue>
+	<tissue colorKey="#36de5e" name="actinidia_chinensis_whole_plant_01-sink-leaf">
+		<link url="TISSUE_LINK"/>
+		<area coords="1014,842,993,833,993,815,1004,790,1007,760,998,733,989,753,993,782,989,802,969,813,956,817,944,805,945,778,963,755,984,748,996,731,1007,728,1012,748,1013,769,1028,781,1052,787,1056,805,1054,813,1047,817,1028,810,1020,796,1020,788,1012,780,1007,802,1019,812,1022,829"/>
+		<sample name="SKLS01" />
+		<sample name="SKLS01" />
+	</tissue>
+	<tissue colorKey="#2bb34c" name="actinidia_chinensis_whole_plant_01-shoot">
+		<link url="TISSUE_LINK"/>
+		<area coords="1008,411,1022,438,1042,457,1058,498,1057,518,1021,549,1006,581,999,614,1003,647,1018,668,1002,703,997,721,1001,743,1007,771,1002,800,1012,780,1015,751,1007,723,1032,669,1026,648,1015,620,1023,583,1038,559,1074,529,1079,504,1097,527,1114,542,1130,583,1155,596,1147,551,1131,525,1122,517,1099,474,1034,405"/>
+		<sample name="SHS01" />
+		<sample name="SHS01" />
+	</tissue>
+	<tissue colorKey="#c38226" name="actinidia_chinensis_whole_plant_01-cane">
+		<link url="TISSUE_LINK"/>
+		<area coords="624,617,583,617,578,525,563,505,584,398,500,288,429,248,395,244,380,259,326,285,393,350,450,480,468,627,456,624,434,475,361,331,208,299,103,344,82,296,7,350,265,113,410,25,585,6,716,31,777,63,881,54,884,65,799,91,869,126,948,208,999,296,1033,376,937,220,852,136,793,114,676,136,736,163,787,209,816,241,875,324,888,362,873,345,805,253,754,200,720,178,652,145,616,183,614,243,681,325,743,470,738,488,659,319,614,260,615,441,647,532,607,452,605,500"/>
+		<sample name="CNS01" />
+		<sample name="CNS01" />
+	</tissue>
+	<tissue colorKey="#a66e20" name="actinidia_chinensis_whole_plant_01-root">
+		<link url="TISSUE_LINK"/>
+		<area coords="586,618,584,628,468,661,411,680,375,705,584,643,529,753,576,696,611,645,619,675,648,679,691,732,667,693,651,661,628,653,626,634,739,615,806,651,743,601,676,609,659,617,626,616"/>
+		<sample name="RTS01" />
+		<sample name="RTS01" />
+	</tissue>
+</component>
+
+
+</section>

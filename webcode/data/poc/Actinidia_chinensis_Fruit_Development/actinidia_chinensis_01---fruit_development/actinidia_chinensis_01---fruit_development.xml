@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Actinidia chinensis fruit development series">
+
+<!-- COMPONENT TEMPLATE
+<component name="actinidia_chinensis_fruit_development___ID__" caption="Stage __ID__">
+	<tissue colorKey="#__CORE_COLOUR__" name="actinidia_chinensis_fruit_development___ID__-core">
+		<link url="TISSUE_LINK"/>
+		<area coords=""/>
+		<sample name="CRS__ID__" />
+		<sample name="CRS__ID__" />
+	</tissue>
+	<tissue colorKey="#__CORTEX_COLOUR__" name="actinidia_chinensis_fruit_development___ID__-cortex">
+		<link url="TISSUE_LINK"/>
+		<area coords=""/>
+		<sample name="CXS__ID__" />
+		<sample name="CXS__ID__" />
+	</tissue>
+	<tissue colorKey="#__FLESH_COLOUR__" name="actinidia_chinensis_fruit_development___ID__-flesh">
+		<link url="TISSUE_LINK"/>
+		<area coords=""/>
+		<sample name="FLS__ID__" />
+		<sample name="FLS__ID__" />
+	</tissue>
+</component>
+-->
+
+<!-- NOTE: Tissues are in LAYER ORDER; Top-most image/tissue layer first -->
+<component name="actinidia_chinensis_fruit_development_01" caption="Stage 01">
+	<tissue colorKey="#3682d2" name="actinidia_chinensis_fruit_development_01-core">
+		<link url="TISSUE_LINK"/>
+		<area coords="19,18,19,26,21,28,24,28,25,27,25,24,26,24,26,19,24,16,21,16"/>
+		<sample name="CRS01" />
+		<sample name="CRS01" />
+	</tissue>
+	<tissue colorKey="#660033" name="actinidia_chinensis_fruit_development_01-cortex">
+		<link url="TISSUE_LINK"/>
+		<area coords="13,21,13,25,18,31,23,33,26,33,29,31,31,26,31,16,30,14,29,13,27,12,21,12,14,18"/>
+		<sample name="CXS01" />
+		<sample name="CXS01" />
+	</tissue>
+	<tissue colorKey="#84bd00" name="actinidia_chinensis_fruit_development_01-flesh">
+		<link url="TISSUE_LINK"/>
+		<area coords="24,4,20,4,16,5,8,12,6,17,6,29,15,39,17,40,27,40,36,32,38,28,38,23,39,23,39,19,38,19,38,15,37,12,31,6"/>
+		<sample name="FLS01" />
+		<sample name="FLS01" />
+	</tissue>
+</component>
+
+<component name="actinidia_chinensis_fruit_development_02" caption="Stage 02">
+	<tissue colorKey="#3684d4" name="actinidia_chinensis_fruit_development_02-core">
+		<link url="TISSUE_LINK"/>
+		<area coords="24,24,29,24,31,26,31,28,30,29,25,29,23,28,23,25"/>
+		<sample name="CRS02" />
+		<sample name="CRS02" />
+	</tissue>
+	<tissue colorKey="#6b0036" name="actinidia_chinensis_fruit_development_02-cortex">
+		<link url="TISSUE_LINK"/>
+		<area coords="24,18,28,18,36,25,37,27,37,29,33,34,21,34,18,32,18,24,22,19"/>
+		<sample name="CXS02" />
+		<sample name="CXS02" />
+	</tissue>
+	<tissue colorKey="#87c200" name="actinidia_chinensis_fruit_development_02-flesh">
+		<link url="TISSUE_LINK"/>
+		<area coords="22,5,31,5,36,6,50,18,50,34,39,46,34,47,21,47,12,43,5,34,4,31,4,22,11,10"/>
+		<sample name="FLS02" />
+		<sample name="FLS02" />
+	</tissue>
+</component>
+<component name="actinidia_chinensis_fruit_development_03" caption="Stage 03">
+	<tissue colorKey="#3785d6" name="actinidia_chinensis_fruit_development_03-core">
+		<link url="TISSUE_LINK"/>
+		<area coords="85,86,103,86,108,92,108,97,103,101,91,101,80,96,79,91"/>
+		<sample name="CRS03" />
+		<sample name="CRS03" />
+	</tissue>
+	<tissue colorKey="#6e0037" name="actinidia_chinensis_fruit_development_03-cortex">
+		<link url="TISSUE_LINK"/>
+		<area coords="101,57,108,58,134,82,135,97,120,120,110,124,97,124,70,115,55,97,56,88,71,62"/>
+		<sample name="CXS03" />
+		<sample name="CXS03" />
+	</tissue>
+	<tissue colorKey="#89c400" name="actinidia_chinensis_fruit_development_03-flesh">
+		<link url="TISSUE_LINK"/>
+		<area coords="101,13,118,16,149,29,172,54,179,71,181,88,181,96,180,105,171,131,150,154,128,165,111,169,85,169,48,158,23,138,13,118,9,103,11,73,23,48,41,29,66,16,85,13"/>
+		<sample name="FLS03" />
+		<sample name="FLS03" />
+	</tissue>
+</component>
+<component name="actinidia_chinensis_fruit_development_04" caption="Stage 04">
+	<tissue colorKey="#3787d9" name="actinidia_chinensis_fruit_development_04-core">
+		<link url="TISSUE_LINK"/>
+		<area coords="138,134,169,135,178,147,175,154,165,159,151,160,131,151,130,143"/>
+		<sample name="CRS04" />
+		<sample name="CRS04" />
+	</tissue>
+	<tissue colorKey="#700038" name="actinidia_chinensis_fruit_development_04-cortex">
+		<link url="TISSUE_LINK"/>
+		<area coords="143,67,177,74,205,81,235,105,244,155,228,205,171,220,131,225,101,207,86,196,69,171,56,137,86,98,105,81,123,72"/>
+		<sample name="CXS04" />
+		<sample name="CXS04" />
+	</tissue>
+	<tissue colorKey="#8bc700" name="actinidia_chinensis_fruit_development_04-flesh">
+		<link url="TISSUE_LINK"/>
+		<area coords="175,12,222,27,270,61,296,108,299,150,294,176,280,213,253,244,213,267,176,274,145,273,90,262,51,238,25,206,11,154,13,123,25,83,56,44,99,20,137,12"/>
+		<sample name="FLS04" />
+		<sample name="FLS04" />
+	</tissue>
+</component>
+<component name="actinidia_chinensis_fruit_development_05" caption="Stage 05">
+	<tissue colorKey="#3888db" name="actinidia_chinensis_fruit_development_05-core">
+		<link url="TISSUE_LINK"/>
+		<area coords="177,180,214,181,220,184,227,199,223,208,212,214,194,215,177,210,168,204,165,195,169,187"/>
+		<sample name="CRS05" />
+		<sample name="CRS05" />
+	</tissue>
+	<tissue colorKey="#730039" name="actinidia_chinensis_fruit_development_05-cortex">
+		<link url="TISSUE_LINK"/>
+		<area coords="182,86,228,96,262,106,301,140,312,187,313,211,307,237,291,278,219,301,169,305,109,266,86,231,71,184,108,131,133,108"/>
+		<sample name="CXS05" />
+		<sample name="CXS05" />
+	</tissue>
+	<tissue colorKey="#8dc900" name="actinidia_chinensis_fruit_development_05-flesh">
+		<link url="TISSUE_LINK"/>
+		<area coords="205,10,271,26,345,79,378,138,384,195,374,257,344,311,302,348,252,369,186,373,117,356,68,327,28,271,13,205,20,137,54,75,104,33,158,14"/>
+		<sample name="FLS05" />
+		<sample name="FLS05" />
+	</tissue>
+</component>
+<component name="actinidia_chinensis_fruit_development_06" caption="Stage 06">
+	<tissue colorKey="#398ade" name="actinidia_chinensis_fruit_development_06-core">
+		<link url="TISSUE_LINK"/>
+		<area coords="201,199,215,199,247,207,256,225,249,236,238,239,211,241,186,222,187,212"/>
+		<sample name="CRS06" />
+		<sample name="CRS06" />
+	</tissue>
+	<tissue colorKey="#75003b" name="actinidia_chinensis_fruit_development_06-cortex">
+		<link url="TISSUE_LINK"/>
+		<area coords="172,105,264,105,314,142,343,200,359,240,331,286,296,317,272,330,223,344,168,327,96,284,91,236,91,206,99,177,122,131"/>
+		<sample name="CXS06" />
+		<sample name="CXS06" />
+	</tissue>
+	<tissue colorKey="#8ecc00" name="actinidia_chinensis_fruit_development_06-flesh">
+		<link url="TISSUE_LINK"/>
+		<area coords="237,13,298,27,350,56,394,103,419,155,426,211,420,268,382,347,343,382,283,409,236,416,185,413,119,394,64,354,28,299,13,234,22,155,47,101,95,51,166,19"/>
+		<sample name="FLS06" />
+		<sample name="FLS06" />
+	</tissue>
+</component>
+<component name="actinidia_chinensis_fruit_development_07" caption="Stage 07">
+	<tissue colorKey="#398be0" name="actinidia_chinensis_fruit_development_07-core">
+		<link url="TISSUE_LINK"/>
+		<area coords="278,228,296,246,296,255,267,276,236,275,223,269,217,261,217,250,226,238,249,232"/>
+		<sample name="CRS07" />
+		<sample name="CRS07" />
+	</tissue>
+	<tissue colorKey="#78003c" name="actinidia_chinensis_fruit_development_07-cortex">
+		<link url="TISSUE_LINK"/>
+		<area coords="311,121,370,152,405,233,404,269,399,326,317,375,254,396,198,378,170,363,129,328,96,274,127,196,152,160,205,121"/>
+		<sample name="CXS07" />
+		<sample name="CXS07" />
+	</tissue>
+	<tissue colorKey="#90cf00" name="actinidia_chinensis_fruit_development_07-flesh">
+		<link url="TISSUE_LINK"/>
+		<area coords="277,15,360,34,436,86,481,169,495,259,479,343,430,413,361,456,285,475,203,473,122,444,64,385,27,298,24,209,53,125,110,63,186,24"/>
+		<sample name="FLS07" />
+		<sample name="FLS07" />
+	</tissue>
+</component>
+<component name="actinidia_chinensis_fruit_development_08" caption="Stage 08">
+	<tissue colorKey="#3a8de3" name="actinidia_chinensis_fruit_development_08-core">
+		<link url="TISSUE_LINK"/>
+		<area coords="245,220,277,253,279,265,273,285,259,288,243,283,229,272,220,246,218,231,225,219"/>
+		<sample name="CRS08" />
+		<sample name="CRS08" />
+	</tissue>
+	<tissue colorKey="#7a003d" name="actinidia_chinensis_fruit_development_08-cortex">
+		<link url="TISSUE_LINK"/>
+		<area coords="235,113,279,117,339,146,391,241,391,305,355,356,335,377,253,414,167,364,120,318,109,260,109,230,122,176,153,122"/>
+		<sample name="CXS08" />
+		<sample name="CXS08" />
+	</tissue>
+	<tissue colorKey="#92d100" name="actinidia_chinensis_fruit_development_08-flesh">
+		<link url="TISSUE_LINK"/>
+		<area coords="256,14,335,30,408,77,468,163,487,238,485,302,453,382,390,445,328,477,262,490,226,489,160,471,91,417,38,338,17,265,24,183,55,116,114,60,191,23"/>
+		<sample name="FLS08" />
+		<sample name="FLS08" />
+	</tissue>
+</component>
+<component name="actinidia_chinensis_fruit_development_09" caption="Stage 09">
+	<tissue colorKey="#3b8fe6" name="actinidia_chinensis_fruit_development_09-core">
+		<link url="TISSUE_LINK"/>
+		<area coords="282,248,270,275,257,285,243,288,232,288,222,262,259,219,275,220,283,227"/>
+		<sample name="CRS09" />
+		<sample name="CRS09" />
+	</tissue>
+	<tissue colorKey="#7d003e" name="actinidia_chinensis_fruit_development_09-cortex">
+		<link url="TISSUE_LINK"/>
+		<area coords="268,114,351,123,382,179,393,232,394,262,382,320,333,366,251,414,165,377,145,356,111,304,112,239,133,199,164,147,224,118"/>
+		<sample name="CXS09" />
+		<sample name="CXS09" />
+	</tissue>
+	<tissue colorKey="#94d400" name="actinidia_chinensis_fruit_development_09-flesh">
+		<link url="TISSUE_LINK"/>
+		<area coords="255,15,323,26,390,60,454,127,483,205,485,264,460,348,410,416,353,464,280,488,216,489,143,465,75,413,39,362,16,293,18,219,48,136,100,71,167,32,219,17"/>
+		<sample name="FLS09" />
+		<sample name="FLS09" />
+	</tissue>
+</component>
+<component name="actinidia_chinensis_fruit_development_10" caption="Stage 10">
+	<tissue colorKey="#3b90e8" name="actinidia_chinensis_fruit_development_10-core">
+		<link url="TISSUE_LINK"/>
+		<area coords="249,276,293,235,316,236,328,243,327,255,306,287,279,301,263,304,251,302,247,296"/>
+		<sample name="CRS10" />
+		<sample name="CRS10" />
+	</tissue>
+	<tissue colorKey="#800040" name="actinidia_chinensis_fruit_development_10-cortex">
+		<link url="TISSUE_LINK"/>
+		<area coords="314,100,404,154,432,185,466,231,452,266,391,389,355,389,331,414,298,420,269,412,235,420,166,398,152,350,132,311,132,270,144,235,146,195,176,183,201,159,223,138,241,127,280,115"/>
+		<sample name="CXS10" />
+		<sample name="CXS10" />
+	</tissue>
+	<tissue colorKey="#96d600" name="actinidia_chinensis_fruit_development_10-flesh">
+		<link url="TISSUE_LINK"/>
+		<area coords="314,15,388,30,457,69,522,140,551,207,555,266,539,338,481,428,379,497,303,517,247,517,168,495,91,439,36,357,19,269,54,152,124,74,222,26"/>
+		<sample name="FLS10" />
+		<sample name="FLS10" />
+	</tissue>
+</component>
+<component name="actinidia_chinensis_fruit_development_11" caption="Stage 11">
+	<tissue colorKey="#3c92eb" name="actinidia_chinensis_fruit_development_11-core">
+		<link url="TISSUE_LINK"/>
+		<area coords="246,263,270,261,304,261,338,269,342,288,332,309,304,311,237,284,237,277"/>
+		<sample name="CRS11" />
+		<sample name="CRS11" />
+	</tissue>
+	<tissue colorKey="#820041" name="actinidia_chinensis_fruit_development_11-cortex">
+		<link url="TISSUE_LINK"/>
+		<area coords="243,108,303,114,379,123,443,181,467,231,494,331,439,395,381,434,345,448,269,461,189,425,93,354,96,283,102,237,119,202,163,138"/>
+		<sample name="CXS11" />
+		<sample name="CXS11" />
+	</tissue>
+	<tissue colorKey="#97d900" name="actinidia_chinensis_fruit_development_11-flesh">
+		<link url="TISSUE_LINK"/>
+		<area coords="311,16,394,29,476,71,546,155,571,244,569,329,531,429,446,515,383,543,292,551,190,534,99,482,37,396,18,287,37,197,82,115,155,53,229,24"/>
+		<sample name="FLS11" />
+		<sample name="FLS11" />
+	</tissue>
+</component>
+<component name="actinidia_chinensis_fruit_development_12" caption="Stage 12">
+	<tissue colorKey="#3d93ed" name="actinidia_chinensis_fruit_development_12-core">
+		<link url="TISSUE_LINK"/>
+		<area coords="222,246,289,239,314,247,313,263,302,286,274,289,211,270,209,263"/>
+		<sample name="CRS12" />
+		<sample name="CRS12" />
+	</tissue>
+	<tissue colorKey="#850042" name="actinidia_chinensis_fruit_development_12-cortex">
+		<link url="TISSUE_LINK"/>
+		<area coords="189,101,326,93,394,138,425,181,440,220,466,272,427,342,377,390,345,410,304,409,274,436,195,415,126,379,87,361,80,293,78,247,88,211,119,144"/>
+		<sample name="CXS12" />
+		<sample name="CXS12" />
+	</tissue>
+	<tissue colorKey="#99db00" name="actinidia_chinensis_fruit_development_12-flesh">
+		<link url="TISSUE_LINK"/>
+		<area coords="284,14,353,28,431,74,491,150,518,227,519,327,490,399,430,466,349,504,260,515,193,509,109,463,64,416,38,360,21,307,15,245,32,167,83,87,147,42,225,19,262,16"/>
+		<sample name="FLS12" />
+		<sample name="FLS12" />
+	</tissue>
+</component>
+<component name="actinidia_chinensis_fruit_development_13" caption="Stage 13">
+	<tissue colorKey="#3d95f0" name="actinidia_chinensis_fruit_development_13-core">
+		<link url="TISSUE_LINK"/>
+		<area coords="238,248,288,239,299,239,317,258,315,266,298,281,280,286,247,285,231,280,224,270,227,260"/>
+		<sample name="CRS13" />
+		<sample name="CRS13" />
+	</tissue>
+	<tissue colorKey="#870044" name="actinidia_chinensis_fruit_development_13-cortex">
+		<link url="TISSUE_LINK"/>
+		<area coords="227,132,310,121,384,138,384,180,412,199,428,229,433,268,436,326,406,347,373,360,353,386,288,416,258,399,225,405,196,394,146,359,102,306,124,216,145,184,175,160,197,128"/>
+		<sample name="CXS13" />
+		<sample name="CXS13" />
+	</tissue>
+	<tissue colorKey="#9bde00" name="actinidia_chinensis_fruit_development_13-flesh">
+		<link url="TISSUE_LINK"/>
+		<area coords="267,17,325,22,399,48,464,98,508,171,527,250,522,325,494,393,449,442,399,474,338,494,280,502,219,500,160,485,91,435,49,372,23,302,18,224,46,138,100,72,137,50,183,30"/>
+		<sample name="FLS13" />
+		<sample name="FLS13" />
+	</tissue>
+</component>
+
+</section>
