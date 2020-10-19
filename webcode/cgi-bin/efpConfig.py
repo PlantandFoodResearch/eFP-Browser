@@ -7,10 +7,10 @@ Created on Nov 24, 2009
 '''
 import os
 
-DB_HOST   = 'localhost'         # hostname of MySQL database server
-DB_PORT   = 3306                # port of MySQL database service
-DB_USER   = 'efpuser'           # username for database access
-DB_PASSWD = 'efppass'           # password for database access
+DB_HOST   = 'efpdb'           # hostname of MySQL database server, for docker
+DB_PORT   = 3306           # port of MySQL database service
+DB_USER   = 'efpuser'            # username for database access
+DB_PASSWD = 'efppass'          # password for database access
 DB_ANNO   = 'efp_actinidia_annotations_lookup' # database name for annotations lookup
 DB_ORTHO  = ''		# ortholog DB
 

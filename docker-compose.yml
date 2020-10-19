@@ -1,0 +1,26 @@
+version: "3"
+networks:
+  efp_net:
+services:
+  efpweb:
+    #image: containerhub.powerplant.pfr.co.nz/powerplant/efp:1.2
+    build:
+      context: .
+    networks:
+      - efp_net
+    ports:
+      - "58765:80"
+    depends_on:
+      - efpdb
+    restart: always
+  efpdb:
+    build:
+      context: ./dbinit
+    environment:
+      MYSQL_ROOT_PASSWORD: efpdbroot
+      MYSQL_USER: efpuser
+      MYSQL_PASSWORD: efppass
+    networks:
+      - efp_net
+    restart: always
+

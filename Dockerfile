@@ -21,6 +21,7 @@ COPY efp.conf /etc/httpd/conf.d/
 
 # Copy codebase
 COPY webcode/ /var/www/html/
+RUN chown -R apache:apache /var/www/html
 
 EXPOSE 80
 
