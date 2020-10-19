@@ -3,7 +3,6 @@ networks:
   efp_net:
 services:
   efpweb:
-    #image: containerhub.powerplant.pfr.co.nz/powerplant/efp:1.2
     build:
       context: .
     networks:
